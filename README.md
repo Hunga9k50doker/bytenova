@@ -45,10 +45,10 @@ nano .env
 nano proxy.txt
 ```
 
-- query id: how to get query id => join my channel: https://t.me/airdrophuntersieutoc
+- privateKeys: how to get privateKeys => join my channel: https://t.me/airdrophuntersieutoc
 
 ```bash
-nano data.txt
+nano privateKeys.txt
 ```
 
 - Run the script
