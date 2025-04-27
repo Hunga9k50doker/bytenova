@@ -11,7 +11,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 ## 📎 bytenova Node cli version Script features
 
 - Auto task
-- Auto checkin
+- Auto checkin (implement)
 - Auto reff
 - Support proxy or not
 - Mutiple threads, multiple accounts
